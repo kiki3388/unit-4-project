@@ -1,0 +1,41 @@
+body{ 
+    text-align:center;
+      font-family:Raleway;
+}
+h1{
+    font-size:50px;
+    font-family:Poppins;
+}
+p{ 
+    font-size:20px;
+    font-family:quicksand;
+}
+h2 {
+    font-size:30px;
+    font-family:arvo;
+}
+.header {
+    background:lightblue;
+}
+.gallery {
+    width: 20%;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+          display:flex;
+          
+  }
+  img{
+   width:200px;   
+   height:200px;
+   
+  }
+  .donate button {
+    width: 200px;   
+    height: 40px;
+    font-size: 20px;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+    border: solid white 3px;
+  }
+    
